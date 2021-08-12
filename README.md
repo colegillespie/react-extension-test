@@ -2,15 +2,14 @@
 
 used to test react extension for issue react issue [#17997](https://github.com/facebook/react/issues/17997)
 
-## setup
+## install build and start test server
 
-1. install this apps dependencies and launch local server
 ```
 npm i
 npm start
 ```
 
-2. in separate shell, clone react and build for dev tools then run dev tools for extentions
+## setup react dev tool extension
 
 ```
 git clone git@github.com:facebook/react.git
