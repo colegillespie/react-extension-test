@@ -10,7 +10,7 @@ npm i
 npm start
 ```
 
-2. clone react and run dev tools in separate shell
+2. in separate shell, clone react and build for dev tools then run dev tools for extentions ( more details found [here](https://github.com/facebook/react/blob/main/packages/react-devtools/CONTRIBUTING.md) )
 ```
 git clone git@github.com:facebook/react.git
 cd react
